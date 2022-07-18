@@ -1,2 +1,2 @@
 # FirstGitHubRepo
-This ia a First Github Repository
+This is a First Github Repository by Ashwini
